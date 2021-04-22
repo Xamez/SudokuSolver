@@ -2,8 +2,8 @@
 **Program written in python to generate and solve a sudoku.**
 
 ## Requires:
-- pygame
-- pygbutton
+- [pygame](https://pypi.org/project/pygame/)
+- [pygbutton](https://pypi.org/project/Pygbutton/)
 
 ## Screenshot:
 
